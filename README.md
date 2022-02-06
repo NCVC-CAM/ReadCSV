@@ -5,7 +5,7 @@ NCVC add-in that reads coordinate data in CSV format.
 * NCVC SDK
 
 ## Usage
-Visual Studio 2015 Solution
+Visual Studio 2022 Solution
 
 ## Author
 Yoshiro NOSE / NIT, Maizuru College (KOSEN)
