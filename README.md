@@ -2,7 +2,7 @@
 NCVC add-in that reads coordinate data in CSV format.
 
 ## Requirement
-* NCVC SDK
+* NCVC.SDK <https://github.com/NCVC-CAM/NCVC.SDK>
 
 ## Usage
 Visual Studio 2022 Solution
